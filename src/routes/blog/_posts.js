@@ -65,7 +65,7 @@ const posts = [
 		<p>Hope you felt the power of BEM and advantages of architecting the Front End.</p>
 		<p>I am adding additional slides that you could use to go back and sell the idea of BEM your teams and companies.</p>
 		<p>Enjoy! </p>
-		<p><a href="https://rachitajoshi.files.wordpress.com/2016/10/creating-meaninful-hml-css.pdf">Creating Meaningful HTML &amp; CSS</a></p>
+		<p><a href="assets/creating-meaninful-hml-css.pdf" target="_blank">Creating Meaningful HTML &amp; CSS</a></p>
 		`
 	},
 
@@ -74,7 +74,7 @@ const posts = [
 		slug: 'ng-atl',
 		html: `<p>This talk was focused on thinking architecturally, and the benefits of doing so.</p>
 		<p>Enjoy!</p>
-		<p><a href="https://rachitajoshi.files.wordpress.com/2018/02/ngatlanta-2018.pdf">Dissecting the architectural process for creating reusable Angular components</a></p>
+		<p><a href="assets/ngatlanta-2018.pdf" target="_blank">Dissecting the architectural process for creating reusable Angular components</a></p>
 		
 			`
 	}
