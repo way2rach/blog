@@ -9,10 +9,18 @@
 
 const posts = [
 	{
+		title: 'My entrepreneurial Journey ',
+		slug: 'now',
+		html: `
+		<p>My musings as I write my own history</p>
+		<a href="https://queenbud.substack.com">The making of Queen Bud</a>
+		`},
+
+	{
 		title: 'Font Awesome vs IcoMoon: Which one is better?',
 		slug: 'font-awesome-vs-icoMoon',
 		html: `
-		<p>With the ever increasing list of icon fonts library, it can sometimes be tricky finding an icon font library that suits your need. When searching on the web I did not find a good article that helps decide which font library is better and why. So, below is what I found out from my research.</p>
+		<p>With the ever-increasing list of icon fonts library, it can sometimes be tricky finding an icon font library that suits your need. When searching on the web I did not find a good article that helps decide which font library is better and why. So, below is what I found out from my research.</p>
 		<p><strong>Why does the choice of an icon font library matter?</strong></p>
 		<ul>
 		<li>Designers want to be able to use the image of their choice, and not be limited to a fixed set provided by icon font libraries.</li>
